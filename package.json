@@ -1,0 +1,4 @@
+{
+  "name": "bioskop-monorepo",
+  "workspaces": ["apps/*"]
+}
